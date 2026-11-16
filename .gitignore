@@ -1,0 +1,11 @@
+# Environment & Python
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Data and Outputs (Never commit raw data)
+data/
+outputs/
+*.csv
+*.soft.gz
